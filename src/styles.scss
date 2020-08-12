@@ -1,0 +1,48 @@
+/* You can add global styles to this file, and also import other style files */
+
+// Custom.scss
+// Option A: Include all of Bootstrap
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+/* Global Styles */
+:root {
+	--primary-color: #3b5998;
+	--primary-color-hvr: #224796;
+	--dark-color: #141414;
+    --light-color: #f4f4f4;
+    --theme-font-family: 'Poppins', sans-serif;
+}
+.btn-primary{
+    background-color: var(--primary-color) !important;
+    color: #fff !important;
+    border: none !important;
+}
+.btn-primary:hover{
+    background-color: var(--primary-color-hvr) !important;
+    color: #fff !important;
+}
+.btn-primary:focus{
+    background-color: var(--primary-color-hvr) !important;
+    color: #fff !important;
+    outline: none !important;
+}
+
+.text-primary{
+    color: var(--primary-color) !important;
+}
+.bg-primary{
+    background-color: var(--primary-color) !important;
+}
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+
+body {
+	font-family: var(--theme-font-family);
+	-webkit-font-smoothing: antialiased;
+}

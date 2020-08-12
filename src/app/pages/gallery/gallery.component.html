@@ -1,0 +1,9 @@
+<div class="jumbotron jumbotron-fluid bg-transparent">
+    <div class="container">
+        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4">
+            <div class="col p-2 shadow-sm gallery__img" *ngFor="let img of galleryImages;">
+                <img [src]="img.imgUrl" class="img-fluid" alt="">
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,43 @@
+<!-- Disktop Navigation -->
+<div class="d-none d-lg-block bg-white">
+    <nav class="navigation__bar container-fluid">
+      <!-- <div class="menu__items_list">
+        <div class="menu__item"><a href="#">Home</a></div>
+        <div class="menu__item"><a href="#">Products</a></div>
+        <div class="menu__item"><a href="#">Blogs</a></div>
+        <div class="menu__item"><a href="#">About Us</a></div>
+      </div> -->
+      <div class="brand__logo"><img src="assets/images/profile-img.jpg" alt="Brand Logo"></div>
+      <div class="menu__items_list">
+        <div class="menu__item"><a routerLink="/home" routerLinkActive="d_active">Home</a></div>
+        <div class="menu__item"><a routerLink="/experience" routerLinkActive="d_active">My Experience</a></div>
+        <div class="menu__item"><a routerLink="/projects" routerLinkActive="d_active">My Projects</a></div>
+        <div class="menu__item"><a routerLink="/gallery" routerLinkActive="d_active">Gallery</a></div>
+        <div class="menu__item"><a routerLink="/contact-us" routerLinkActive="d_active">Contact Me</a></div>
+        <div class="menu__item"><a routerLink="/about-us" routerLinkActive="d_active">About Me</a></div>
+      </div>
+    </nav>
+  </div>
+  <!-- Mobile Navigation -->
+  <div class="d-block d-lg-none bg-light border-bottom sticky-top">
+    <nav class="m__navigation__bar">
+      <div class="m__brand__logo my-auto"><img src="assets/images/profile-img.jpg" alt="Brand Logo"></div>
+      <div class="my-auto">
+        <a href="https://wa.me/917976501189?text=I'm%20impressed%20with%20your%20resume.%20can%20we%20talk%20about%20job%20or%20internship">
+          <img src="assets/images/whatsapp__icon.png" width="50" alt="">
+        </a>
+      </div>
+    </nav>
+  </div>
+  <div class="d-block d-lg-none">
+    <div class="nav-scroller border-bottom py-2">
+      <nav class="nav d-flex justify-content-between">
+          <a class="category border mx-2" routerLink="/home" routerLinkActive="active">Home</a>
+          <a class="category border mx-2" routerLink="/experience" routerLinkActive="active">Experience</a>
+          <a class="category border mx-2" routerLink="/projects" routerLinkActive="active">My All Projects</a>
+          <a class="category border mx-2" routerLink="/gallery" routerLinkActive="active">Gallery</a>
+          <a class="category border mx-2" routerLink="/contact-us" routerLinkActive="active">Contact Us</a>
+          <a class="category border mx-2" routerLink="/about-us" routerLinkActive="active">About Us</a>
+      </nav>
+  </div>
+  </div>

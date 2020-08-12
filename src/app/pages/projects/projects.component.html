@@ -1,0 +1,27 @@
+<div class="jumbotron jumbotron-fluid bg-transparent my-0 pb-0">
+    <div class="container">
+    <p><b>Total Projects available : {{project_List.length}}</b></p>
+        <ng-container *ngFor="let project of project_List;">
+            <div class="mb-5">
+                <div class="mb-3">
+                    <h5 class="mb-0 mb-md-4"><b>{{project?.projectTitle}}</b></h5>
+                    <p class="text-justify text-muted"><small>
+                            {{project?.projectDesc}}
+                        </small></p>
+                    <p *ngIf="project?.projectSourchCode"><small><b>Source Code</b><br> <a [href]="project?.projectSourchCode"
+                                target="_blank">{{project?.projectSourchCode}}</a></small></p>
+                    <p *ngIf="project?.projectLiveUrl"><small><b>Live Preview</b><br> <a [href]="project?.projectLiveUrl"
+                                target="_blank">{{project?.projectLiveUrl}}</a></small></p>
+                </div>
+                <div class="mb-3" *ngIf="project?.projectImgs">
+                    <p class="mb-0 mb-md-4"><b>Snapshots</b></p>
+                    <div class="row_posters">
+                        <ng-container *ngFor="let imgs of project?.projectImgs;">
+                            <img [src]="imgs?.imgUrl" class="img-fluid shadow-sm" alt="">
+                        </ng-container>
+                    </div>
+                </div>
+            </div>
+        </ng-container>
+    </div>
+</div>
