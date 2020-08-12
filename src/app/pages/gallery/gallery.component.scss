@@ -1,4 +1,11 @@
 .gallery__img img{
     width: 100%;
-    height: auto;
+    height: 200px;
+}
+
+@media(max-width:720px){
+    .gallery__img img{
+        width: 100%;
+        height: auto;
+    }
 }

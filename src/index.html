@@ -9,5 +9,13 @@
 </head>
 <body>
   <app-root></app-root>
+
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script>
+    $(".gallery-item").click(function () {
+        var imgPath = $(this).find(".img-fluid").attr("src");
+        $('#modalImgOpen').attr("src", imgPath)
+    });
+</script>
 </body>
 </html>
