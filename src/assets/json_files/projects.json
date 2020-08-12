@@ -97,6 +97,28 @@
      ]
   },
   {
+     "projectTitle": "2nd COVID 19 coronavirus world wide cases",
+     "projectDesc": "Live Track India's corona cases from mygov.in/COVID-19. and check the basic symptom checker using a basic classification in machine learning and fetch the data from mygov site using web scraping with a beautifulsoup module in python.",
+     "projectSourchCode": "",
+     "projectImgs": [
+        {
+           "imgUrl": "https://lh3.googleusercontent.com/pw/ACtC-3cm1ab3z81u2FuzdEBfqHD-0yjssH3WBi5UaTgbQMAnIL_50jGNok6wI-gerFZUVFJn8Xl4O8k4DYVsCfiHy5y75qY6QXyKmcDkaazNyyUl6gcuyHfHIFvt2G28tEoNQ8WrkK8YLLOJzG5bu9Ikp4ac=w1130-h635-no?authuser=0"
+        },
+        {
+           "imgUrl": "https://lh3.googleusercontent.com/pw/ACtC-3eBbM6gssctHVEzYuNLC1yfGr3VcHNiVTv7-yn7_A6tZdeUzjtEziENVCCvpXp3h4h8U42G_dugFbl1X-oUlDkVEogixnzsjmgQlnq9xLqK6r0Gs53U2ci6YUY4vQi7B_SYfPZIwhKs_PgGL7v26lLA=w1130-h635-no?authuser=0"
+        },
+        {
+           "imgUrl": "https://lh3.googleusercontent.com/pw/ACtC-3fxfQBLbjY4W_g8cW3aqybN63H8zPi4BmcxGbYj5surNVnBAR9hgdzC9osvyKHf9zPEQ1HVJT56BMxYNCePECZgkaudPPV9KD9FHS6gCsRLbDj4LvEDrnQPCi7llxzETjE5MeBxdigj1JdMkLaL82Zq=w1130-h635-no?authuser=0"
+        },
+        {
+           "imgUrl": "https://lh3.googleusercontent.com/pw/ACtC-3dlNczU5kQbuixDJC0YuoRl6fTLpLfBSpPu55z-OG4PlZUVyNpY43XH35PjstRrfk0WC3kSM_m1DzqK3_U1cY99_CloBp0RQlR37Cvha8ZiLtsncp-fPsbUzFVfr6QAI7TMp8SupWr_YvgTY_ZOYDjI=w1130-h635-no?authuser=0"
+        },
+        {
+           "imgUrl": "https://lh3.googleusercontent.com/pw/ACtC-3fu7OGOWb3Vd9kgJfK5INAgFxZgiLi4QONwYpRZHUvEi8e84oqaz4l8oeeLH-OLggFq4sqtRZ37LaM95cX6Oy_zZ9ECNILSlwZehMvbPZqSx0s1ywQFASmimKIp3TJOa51KrLR0VyOYEvfhceZt5-tp=w1130-h635-no?authuser=0"
+        }
+     ]
+  },
+  {
      "projectTitle": "Student Record Management system Using PHP",
      "projectDesc": "",
      "projectSourchCode": "",
