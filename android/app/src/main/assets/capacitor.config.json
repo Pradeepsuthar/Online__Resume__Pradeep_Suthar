@@ -1,0 +1,13 @@
+{
+  "appId": "com.resume.myresume",
+  "appName": "resume",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist/resume",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
