@@ -1,37 +1,5 @@
 [
     {
-        "projectTitle": "NewsApp",
-        "projectDesc": "Social news app posted by verified accounts with a simple and very attractive user interface. users can upload a post on the platform.",
-        "projectSourchCode": "https://github.com/Pradeepsuthar/NewsApplication2020",
-        "projectLiveUrl": "https://newsapp-4a776.web.app/",
-        "projectImgs": [
-            {
-                "imgUrl": "https://lh3.googleusercontent.com/8sgwhAxT0-JzJnQn9SHIuWxA99NKNBnf6kfR2gJaYhZQvXYTWgSola9Waq1CkgjEBjB_4VnAW1lVypea2sSimD533o_Rv-lgTztGBwtwJC8Oo1SSzlHiaCQMKeEGdk3CpqeJNmD6Q00LkQI12S-9_oPqiKE5RRcdoM01ZcUDtgar5oYk9hlwEuG946PVWfEYDNItErkKPGDhunQjcdRX6lSRYTUZlUiQZGz8jhOi96yEXywVqFQTfNjiCJDmGcBtzvb16EdhNDtetOpZmOkLsuJHhxmN6GS4-ZHwHzyXUOx475wwUBZ5DDTZtixnGcqRcQWR06dGSyEque-3jqPp9GiMOLMXW5UOZ1sHjwN8zoUvQs4Szg1rs4L9xxLQi4duFE9LknrZlnApWbo5yFjqNMe3xAepDs5aI3vRYY3Fn-ky8ECV9lHBL3XM4e3b3vAiyp1oooq9dDDdPf0jLUd6nafydH_6IdhyrNnH1QQs5vX32zPZBOYMK0jFZebVF1kZ3zy3Whr9DGAl6qI5ELcSLDCmnPmB32VmasXvwtW-HNP3G5geMbl_Y2MXHIJ5FdZqs7ukaD9rJCNhbn53C6KEPjeWYDSCEWnz8jVDascK-diqtscsWdAUntc_k_FGwrtC1QgaHJ2AEwen5M_SIsKC_jDQN5O4oR9tTArYA6_ZQuwcXPXk6zAAJ6tqhOIj=w309-h635-no?authuser=0"
-            },
-            {
-                "imgUrl": "https://lh3.googleusercontent.com/z1jGN_IOaSM0V52XBjD-MJHvsfV0Tn5JSb6XJSDBW6WUYgW5oiN4J2g3BF1QPXAN3aMbTaSiqVi4-JDOJzAyydZrwouTOJQkch8yUf-PySq_AjOVMnZfvC-C33J0E8Yg8tyC02fTs4rMrlTd5LIlgCa9eLiJZo-QsT5d5dTrDKwuKnMeaa6dwCdy9mul9pGB04fhPq-h7k0A5CmIflrS4V9UwDLA8YFoTRaAlMkZdkYFkLWMDbc6I_I2pFfTU68qfSfS6vcEUQ_u52dqI9hh71ro-jeCsDHDIw1fneLEB4GseYjrsNV0AnUAA0NObkvRswURF875DdUbRvBMvS_NtNBqzeDJ_wKC-xBcJQuQseXD_Sp8NQ1exvhc4YnuPC_rInJQDlbSkcmrKPjzVoGsXyeAyg3YEmnLr8x3YdXHeCPxAUt3caoj9aSwQuILm2g6M6OgJ68K13U15ss6vwZFJcyd3SILP_NjEvkkrbtFuKg9cxwvtn11nevhS1Q9GhQeW8ANDE-FfM9DUtU42McgrJBBTNiyZ_veCJjbcDBx5pRB2dgJI0uRh1N4ZzIPChoHb77DKr0GR1AaV3ZMeog6b8tprDIW3sOx8YVKmIPB0rb57LjmQrsF_LzfgtaegKE3q0FsqPu7hao7NeVzCxa0Y33p5ZnRHElVPJs0MkT2BX7hwUwxI-cPd2W-R_-e=w309-h635-no?authuser=0"
-            },
-            {
-                "imgUrl": "https://lh3.googleusercontent.com/fVolpOduaC3mFE_tssaV9KS3C0eyy3UaNq2e5Mc3sd0jVzGsfc43Cm7YQANDr6qmA-haUgJe3Smn-alxlqxv9NW4PSlho0xLFIdkOJlgwBJe-6KrcGY2k2xD_pjScZ8PtbhH-cf2m8jsI3iK7u-FwnzAtOltLCacSg3NXTJo3lQYsUAeuW8TWS-kgH7x1Cx_LYqYWx2-07I1UErvvjMfB_A92OIoXB8Wz4wNqkGTrCbeFxqhziTmfODyZe-bYcPFKd4RAXhFsqqOLq7HIHkp2wx4UDMJmCoG6ZnWCaldaVwlseSv74f8cotMqVbipD6KGhXQIVZeEgsvSVtXo-n9x6Dtqmgc970WKBHxQoT8WFlTDnW2bpMMxM2orgXoOZR9NtUF79RA-KhU3PaKPBBRG2get0Xa1-bitKjCuEy6R0BfPptYXd7ZrLguitlo58kfE_dvzUS64kv-rEyuPRw88NoPlymFtZgdhj5G0qvwyoNxnBr7WlbKfW9vGmyiM2fnCP2fO0DjeziTvNE6AMkJnnC4_2G2IpPIhQLvaMboUO_aIvlDIYS6lOK9AP1Fjo9e4idQbSZ6h75o97-LpVANecuoRtRYbAB96m0mXF9Q3d19i2pPdOFT9w4KHl-F24bpgLkJRivH39bVJHJ6wPlK_1xaDti5PZebhAhEHWuXSwRX3qCp2iyjRbsQYQH1=w309-h635-no?authuser=0"
-            },
-            {
-                "imgUrl": "https://lh3.googleusercontent.com/dQYu-sEjanz8KOsoPwAcT6lCF6ZQVS4JAQV9oE0pkX0GGWGvl2Zu39cH-QDiggCqt4WToyQUOjbADaJaiZ8SlViDaBxYHNPWvIzDHGKTvV-pr2CsvKeokgOrmWtrE6h_isDdhNFj0aULUypYpjCZE5DzhffZu3PevRIiJCjlPbZLMXWsYEOoDvEfOUNzm_Q_FawmEinhY0uH4mOCs_QbRDFEjaXsor-RxO-yMHrYIJSnqHvpJLI5V4GaKmuNGGE-er05FuNMjCiKLs8TD0P0fykMzj-fJjwVwmBivPEVD_qmKJ_jBlQ8mhv_VjPimYlxTiiN2cmuRpAau9tHrRZngXOo_81g0_IrQNrgPc4fKPx8_OX-nqjlLE6VP3KQ8fEdObwF1F6BFhIMbvvM57CE-_Nyezs_aGNwV1ftVqZ24_vdWSrCkh1JW7pXKtOwDv6DHH-Y-3u3NrEv334M1tgyHx4H1IJ806ykdHADIUuwY48v9yRAv1yYfO4wrTJRyF5TUh85Uitg9fnoi0Zd5zVjXkGhgC57n2XrILm6ol1xgZDXGhSYxpkhZxA8jij04FxPNtwihgXjUaBcnqq3AajaookBKVh40kckdZJgYIOQDH1S9LI66MRqSRuf39ehKnPyXJ6c0wnxp2VwrAytdEeMFX23_bk0XDtrLnwqE24unZ2XoLbhgKXTIya47FxW=w309-h635-no?authuser=0"
-            },
-            {
-                "imgUrl": "https://lh3.googleusercontent.com/oiUVyTn92EFTEL1dh8SVmaETCSKVUqQKuN9YpkzuFNcBYjVGQ-VHsOG2cyIDqVokoSw_k7kiGO8yfB-bxDPEwIXCJagn4ArcVHESTxzcbNLbG5nXP1L_1hA6u4HQh7csHVnr3YRESKwSN_YkC2JO_Ou16IUFpl1BX_4OgtYOWPRNDVtY9Caibfm4OMU-oqsFKuVoEVF2BynQ25l1l9VMh1bzW867R1G5-cxjwPX-v6q8r6FhrBlun86zH1xljiuc_GjBPfk1YimSbj71YWCwkVtGaN3IC-VBRjV-1NGb2e6DyoC0xdQ5mNtSNEpY_hygd64VnhVlFH5zqvmRLf5DFCSAZdrLewha7GEh869cmJiHYrwXN6uhd05eINYrlyoUmrfhqIgxNX9JbHe9HUMpWgkICi8-nq5QEAYOCnmgGE_9DAon31Kq8zDoo7nx5ZrPrwDvi8_Wu1D07t8vl6Qr5BCuPzxGssvVEbmJ8hyzABO-tnVSyrV-eWVgp4FmkdXLBVG8gNaDfOwcLFaQKcWQvTezL4n0RDeXBx_lqpzZvAaisi7p3GS3v-S-V1gT5RMyao_7-XQGIJFhvPBqcP5aFTWdEtPs3VnArY8b7MEYog5bY8xdeern-JGyGrlI5bJOKQsTSmePV5rqGFv6jrz-2FFpihjdaXW4QQaKjD-Sd7sW_lEG3tiy2s61jBjP=w309-h635-no?authuser=0"
-            },
-            {
-                "imgUrl": "https://lh3.googleusercontent.com/QjiE6u2xpzxlNNy8JzgDCpw3HUEh3naf17d_l4DpZlOcf8BphvOMGMCaI6lkqSjaefWnsi2xq9SumWEvB2vgOntnQWKlBReynHmfMwViYUuQjkEI3Xcjumx4gKICnzqokDt27szGNBmSGLD3M16hCmKoSLis7x_vl1o1VEuCIiwlsIDr_w2pifqQIkMzRLpLqL8LVkIJwyHOUuer_OJwycZoFzcDf9njLIlZB2uGXM_Od0SiTOdjvzOoeuZTVUDuUzhi_Wmths0qqZJmgIy65WRHazw-JhMa_oDmVo0e_W00_w6_Nav72tUBsoh4zzIe8PbFaIF1lINMYm4VedJCnVcxtMMYtKawEu5CQ3rvyXRdLgI_nwKMlKKdiuMfpvZw_WhG1Z93UplSU9iLiPXsQD0ohBcCdx5NwkBArgNXWriRryOM7bURjLvF2nldbc7ia6blDM2C9Y7D8KuN5NnxMrU43hsuvy20wKcUFBIx1eopzSmmPKxDJkLpI9nlIR2i6BZK1O-fYBqxz_3liwB1LlGDqWse4DhaBJpcyy5F4y78KP-lJqYb3WGT3lbfmdiDzPmC0DK5YVoL16GdDjLDGsvMHNfzXh_QrefJa4kBv__69ODFHF6l9oyuU42LkrsuEb9C7Nm3HV-kc6zuU-lrWqwO07kqJZkwFnQSlCHBeZ3xI84pGfNH9QzS1LXx=w309-h635-no?authuser=0"
-            },
-            {
-                "imgUrl": "https://lh3.googleusercontent.com/aDpb92H5Uj_ZqZ1zTdwghUdQZRGWxuuqAeRDpsQOSx9dqsREhtSxLKZyrcZHuY4NyCUUxbc6SP-2VmHA3xoIlrzyIs3nAfA62WlY4_d2cI2Ad0k4TkKTB4iljOqCXgLyQPHP-qmpYBI-dIHnunNMTb4NebfDw1idVmqFwqdXWoA6dge9Ow9hDilggS7rHfLpMU4U9Bth8NSKAaeQ6vldfft6nWmbJLHcsBVoLl-h-3oYOnOHAOQEYjhxu3yCHu17YSDZFU_sEtwCNdjumccsBVAG-wJgaxxEjLb4zoxMBRfxKWL8PpXrE4mk1NHV2cRBtqDyFu0lUydCKjoMJtXnUmvNh2yXPtuspLX50u7Q2RQZ0qpnja5qztHr7GSEVALgCJhYbL2EbiI8z_aQKzyH1mbeoQV3XhzyLB6PLdqvMyuCjBlJQSK6F3QItSLh0DL3WOYwZbr1KlUDTw6Zn3mgUXxtR8x_xoGZesNUNGKFQ7FV2-3U4FZ53ik31UIMrkdgWb9qnNDtoshWo6tl7KxVV5kdsv73TjGik6X-v2SAeHKkWQbgH09Gy8UMcPrurXgNF-LNxPU0iTF7nmbQ2RMF2TARE8SX24EsL5aPfX3GFlBhWrq2AnZnLuwi5hoF7-kbT2i14HA2twmdXr4OnXb5-5Hr05Z5N7m4-hhuBjI7GD7G1xC7pn9C1s5qEzcx=w309-h635-no?authuser=0"
-            },
-            {
-                "imgUrl": "https://lh3.googleusercontent.com/zclOcAUWlfQ1vocSc7db_U2015Ih4rF9PpfFkmdhvcZpkuQ64h6hdK9acc8SRXKKgFrkls0GDy1ofzHdlPHn_52_y39Xhu4Nrz7rgyOvcn7S7nQYvE0hHHsjeKv6-xP-awZbe68ULAXbPb-Jjm6bwEKmrlTy1kamQypFVKRoa38WZmjpyDCN-G_xoLCeEs3_dW5l0EmsyF8AcDKJ9n9mUKnhZGtOSNG73zn88ihKzJ_R2N2WaBmP8AjWzRxJN63PI1XC2Y2Zm5YsXn7Ok50OFbWqeeyIDETW1XuIg5Kc_-mQjLwftYn4W1PXG5NelCmdGFOoK6EodVk8Dv6sFzZhOF8TGs37SbdbDHzzZCgP_n1DUW1i676aW5DdHe8PKELhLv8MMb9kkOY72wsYKeMpdoJKNAp0jLL32jW1ipnpF-Db5hoxsCmmXCkJUCuUBq8snPl5iTe-tP1H1Wizhvwk4QLM1rzN-kHRymZDzR4pNtvP_11bc2o5lsV-mjs1jPAbId7LmxGEETlnAvn5Uq8GYE6M3BvR8y2u6ZflXiS41BeAyyO7X8-g5CSAQhg-m1oT_mo61bIR11-IqlnqRCAzrLWX2Gt8gobONUMUXO9z8Q1ILicDa3dqL0dskdwBkE7WRzA-42Wz8AbSARdAc5pGIa7er3Voh7r89MHReIFIi7Z_7TOm6AmROIEX2GYJ=w309-h635-no?authuser=0"
-            }
-        ]
-    },
-    {
         "projectTitle": "FoodMagic Online Food Ordering System",
         "projectDesc": "food magic is one of the favorite projects which is made with the awesome user interface. in this project, I create the some basic module like displaying the list of all food products, search the products, and filter the product by category also with add to cart item in cart list and checkout process with getting the valid-user data and change the current password, users can edit own profile etc.",
         "projectSourchCode": "https://github.com/Pradeepsuthar/django_foodmagic",
